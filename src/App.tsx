@@ -11,6 +11,7 @@ function App() {
     {label: "three", value: 3},
     {label: "four", value: 4},
     {label: "five", value: 5},
+    {label: "six", value: 6},
   ]
 
   return (
